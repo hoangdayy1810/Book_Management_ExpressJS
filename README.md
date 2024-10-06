@@ -13,4 +13,7 @@
   + npx prisma generate
 - Tải dotenv
   + npm install dotenv
+ 
+- Chạy chương trình
+  + npm start
   
